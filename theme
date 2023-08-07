@@ -1,6 +1,6 @@
 /* Gray */
 .theme-dark {
---accent-color: #eeeeee !important;
+--accent-color: #eeeeee !important; 
 --background-1: #202020 !important;
 --background-2: #191919 !important;
 --border-color: #2c2c2c !important;
